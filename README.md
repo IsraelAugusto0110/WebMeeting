@@ -34,3 +34,10 @@ Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades
 * Ser usual em dispositivos móveis;
 * Estar disponível no idioma Português do Brasil;
 * Documentações.
+
+### Nosso time
+#### [Tiago Canonici DevTeam](https://github.com/thiagoCan)
+#### [Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
+#### [Natalia Biscaro Scrum Master](https://github.com/NataliaBiscaro)
+#### [Pedro Landin Product Owner](https://github.com/Pedro-Landin)
+#### [Marcos Yan DevTeam]
