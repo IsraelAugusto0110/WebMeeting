@@ -35,6 +35,13 @@ Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades
 * Estar disponível no idioma Português do Brasil;
 * Documentações.
 
+### Solução
+
+#### Banco de Dados
+Segue o esquema conceitual do banco de dados:
+![Banco de Dados Conceitual](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/BD_Conceitual.jpg?raw=true)
+
+
 ### Nosso time
 #### [Tiago Canonici DevTeam](https://github.com/thiagoCan)
 #### [Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
