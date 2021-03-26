@@ -31,7 +31,7 @@ Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades
 ### Requisitos Não Funcionais:
 * Backend: Java (sugerido);
 * Frontend: HTML 5, CSS 3, JS, Angular ou React;
-* Ser usual em dispositivos móveis;
+* Ser compativel com dispositivos móveis;
 * Estar disponível no idioma Português do Brasil;
 * Documentações.
 
