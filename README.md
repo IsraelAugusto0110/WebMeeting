@@ -38,9 +38,14 @@ Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades
 ### Solução
 
 #### Banco de Dados
-Segue o esquema conceitual do banco de dados:
+
+Modelo Conceitual
+
 ![Banco de Dados Conceitual](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/BD_Conceitual.jpg?raw=true)
 
+Modelo Logico 
+
+![Banco de Dados logico](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/MLR_Sistema-2021-03-26_20-45.png?raw=true)
 
 ### Nosso time
 #### [Tiago Canonici DevTeam](https://github.com/thiagoCan)
@@ -48,3 +53,4 @@ Segue o esquema conceitual do banco de dados:
 #### [Natalia Biscaro Scrum Master](https://github.com/NataliaBiscaro)
 #### [Pedro Landin Product Owner](https://github.com/Pedro-Landin)
 #### [Marcos Yan DevTeam]
+#### [João Victor DevTeam](https://github.com/JVMedeiros)
