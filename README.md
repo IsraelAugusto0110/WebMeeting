@@ -42,6 +42,7 @@ Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades
 #### Tela do sistema 
 
 criada por [Pedro Landin](https://github.com/Pedro-Landin)
+
 ![Tela Sistema](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/Tela_Sistema.png?raw=true)
 
 ### BackEnd
