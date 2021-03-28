@@ -66,4 +66,4 @@ Modelo Logico
 #### [João Victor DevTeam](https://github.com/JVMedeiros)
 
 ### Sprints
-[Sprint 01](https://github.com/IsraelAugusto0110/WebMeeting.git)
+[Sprint 01](https://github.com/IsraelAugusto0110/WebMeeting/tree/Entrega_01)
