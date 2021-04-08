@@ -67,3 +67,5 @@ Modelo Logico
 
 ### Sprints
 [Sprint 01](https://github.com/IsraelAugusto0110/WebMeeting/tree/Entrega_01)
+
+[Sprint 02](https://github.com/IsraelAugusto0110/WebMeeting/tree/Entrega_02)
