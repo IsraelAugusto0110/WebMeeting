@@ -51,7 +51,7 @@ criada por [Pedro Landin](https://github.com/Pedro-Landin)
 
 Modelo Conceitual
 
-![Banco de Dados Conceitual](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/BD_Conceitual.jpg?raw=true)
+![Banco de Dados Conceitual](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_02/Documenta%C3%A7%C3%A3o/BD_Conceitual2.jpg?raw=true)
 
 Modelo Logico 
 
