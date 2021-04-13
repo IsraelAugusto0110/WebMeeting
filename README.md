@@ -7,12 +7,17 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 	🚧  Em construção...  🚧
 </h4>
 
-### Features
+### Features da sprint
 
-- [ ] CRUD de usuário
-- [ ] CRUD de ata
-- [ ] Salvar atas em pdf e/ou excel
-- [ ] Imprimir atas
+- [ ] Criar CRUD de usuário
+- [ ] Lista de requisitos
+- [ ] Diagrama de contexto
+- [x] Diagrama de casos de uso, com descrição
+- [ ] Diagrama de atividades
+- [ ] Diagrama de implementação
+- [ ] Documentação de cada item da sprint
+
+
 
 ### 🛠 Tecnologias
 
