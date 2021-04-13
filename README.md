@@ -26,8 +26,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Demonstração
 
 <h1 align="center">
-  <video width="320" height="240" controls>
-  <source src="https://github.com/IsraelAugusto0110/WebMeeting/blob/main/Documenta%C3%A7%C3%A3o/Tela_Login.mp4?raw=true" type="video/mp4">
-	Your browser does not support the video tag.
-  </video>
+	<a href="https://github.com/IsraelAugusto0110/WebMeeting/blob/main/Documenta%C3%A7%C3%A3o/Tela_Login.mp4?raw=true">Video de demonstração</a>
 </h1>
