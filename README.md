@@ -36,4 +36,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Natalia Biscaro ScrumMaster](https://github.com/NataliaBiscaro)
 - [Marcos Yan DevTeam](https://github.com/IsraelAugusto0110)
 - [João Victor DevTeam](https://github.com/JVMedeiros)
-- [Euclides Rezende DevTeam](https://github.com/IsraelAugusto0110)
+- [Euclides Rezende DevTeam](https://github.com/euclas)
