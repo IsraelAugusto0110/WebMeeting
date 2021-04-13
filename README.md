@@ -1,66 +1,40 @@
-# WebMeeting
-Sistema web para gerenciamento de reuniões, utilizando Java e banco de dados
+<h1 align="center">WebMeeting</h1>
 
-## Projeto integrador - Requisitos do cliente
-### Curso: Análise e Desenvolvimento de Sistemas (ADS)
-### Tema do Semestre: CRUD Sistema Web com regra de negócio complexa em ambiente de produção (Deploy).
+<p align="center">Um sistema web para criação e gerenciamento de atas de reunião utilizando SQL, NodeJS, React e Javascript. Com as funcionalidades
+de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir as atas.</p>
 
-### Conhecimentos exigidos no Semestre (Hard Skills):
-* Padrões de projeto(Design patterns);
-* Testes de software / Qualidade de Software;
-* Tratamento de exceções;
-* Banco de dados;
-* Programação orientada a objetos(web);
-* Testes de software / Qualidade de Software;
-* Docker;
-* Estatística aplicada;
-* Medidas de estimativas de custo, prazo e esforço baseadas em técnicas e padrões de mercado.
+<h2 align="center"> 
+	🚧  Em construção...  🚧
+</h4>
 
+### Features da sprint
 
-## Informações da Empresa Parceira
-### Problema (Desafio):
-Desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades de cadastro, controle de acesso, logs de execução, geração e monitoramento de ata de reunião e assinatura digital. Adicionalmente, relatórios analíticos são pontos interessantes de agregação de valor ao projeto.
+- [ ] Banco de dados: conceitual
+- [ ] Banco de dados: logico
+- [x] Tela de login
+- [ ] Primeiro rascunho do corpo do projeto
+- [ ] Documentação da sprint
 
-### Requisitos Funcionais:
-* Cadastros de Usuários, Cadastro de Perfil de Acesso; Cadastro de Modelo de Ata de Reunião;
-* Login; Logout;
-* Gerar Ata de Reunião;
-* Adicionar Revisão;
-* Monitorar Ata de Reunião;
+### 🛠 Tecnologias
 
-### Requisitos Não Funcionais:
-* Backend: Java (sugerido);
-* Frontend: HTML 5, CSS 3, JS, Angular ou React;
-* Ser compativel com dispositivos móveis;
-* Estar disponível no idioma Português do Brasil;
-* Documentações.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### Solução
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [Banco de dados oracle](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html)
+- [Javascript](https://www.javascript.com/)
 
-### FrontEnd
+### Demonstração
 
-#### Tela do sistema 
-
-criada por [Pedro Landin](https://github.com/Pedro-Landin)
-
-![Tela Sistema](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/Tela_Sistema.png?raw=true)
-
-### BackEnd
-
-#### Banco de Dados
-
-Modelo Conceitual
-
-![Banco de Dados Conceitual](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_02/Documenta%C3%A7%C3%A3o/BD_Conceitual2.jpg?raw=true)
-
-Modelo Logico 
-
-![Banco de Dados logico](https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/MLR_Sistema-2021-03-26_20-45.png?raw=true)
+<h1 align="center">
+	<img src="https://github.com/IsraelAugusto0110/WebMeeting/blob/main/Documenta%C3%A7%C3%A3o/AppDemo.gif?raw=true" width="500" height="500" />
+</h1>
 
 ### Nosso time
-#### [Tiago Canonici DevTeam](https://github.com/thiagoCan)
-#### [Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
-#### [Natalia Biscaro Scrum Master](https://github.com/NataliaBiscaro)
-#### [Pedro Landin Product Owner](https://github.com/Pedro-Landin)
-#### [Marcos Yan DevTeam]
-#### [João Victor DevTeam](https://github.com/JVMedeiros)
+- [Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
+- [Pedro Landin PO](https://github.com/Pedro-Landin)
+- [Thiago Canonici DevTeam](https://github.com/thiagoCan)
+- [Natalia Biscaro ScrumMaster](https://github.com/NataliaBiscaro)
+- [Marcos Yan DevTeam](https://github.com/IsraelAugusto0110)
+- [João Victor DevTeam](https://github.com/JVMedeiros)
+- [Euclides Rezende DevTeam](https://github.com/euclas)
