@@ -13,7 +13,7 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 - [x] Banco de dados: logico
 - [x] Tela de login
 - [x] Primeiro rascunho do corpo do projeto
-- [ ] Documentação da sprint
+- [x] Documentação da sprint
 
 ### 🛠 Tecnologias
 
