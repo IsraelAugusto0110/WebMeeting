@@ -14,3 +14,12 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 - [ ] Salvar atas em pdf e/ou excel
 - [ ] Imprimir atas
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [Banco de dados oracle](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html)
+- [Javascript](https://www.javascript.com/)
+
