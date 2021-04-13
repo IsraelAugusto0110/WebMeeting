@@ -6,5 +6,5 @@ Sistema web para gerenciamento de atas de reunião utilizando banco de dados SQL
 
 Tabela de conteudos:
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [sobre](#sobre)
 <!--te-->
