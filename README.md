@@ -9,8 +9,8 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 
 ### Features da sprint
 
-- [ ] Banco de dados: conceitual
-- [ ] Banco de dados: logico
+- [x] Banco de dados: conceitual
+- [x] Banco de dados: logico
 - [x] Tela de login
 - [x] Primeiro rascunho do corpo do projeto
 - [ ] Documentação da sprint
