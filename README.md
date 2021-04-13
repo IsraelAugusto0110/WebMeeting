@@ -30,10 +30,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h1>
 
 ### Nosso time
-[Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
-[Pedro Landin PO](https://github.com/Pedro-Landin)
-[Thiago Canonici DevTeam](https://github.com/thiagoCan)
-[Natalia Biscaro ScrumMaster](https://github.com/NataliaBiscaro)
-[Marcos Yan DevTeam](https://github.com/IsraelAugusto0110)
-[João Victor DevTeam](https://github.com/JVMedeiros)
-[Euclides Rezende DevTeam](https://github.com/IsraelAugusto0110)
+- [Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
+- [Pedro Landin PO](https://github.com/Pedro-Landin)
+- [Thiago Canonici DevTeam](https://github.com/thiagoCan)
+- [Natalia Biscaro ScrumMaster](https://github.com/NataliaBiscaro)
+- [Marcos Yan DevTeam](https://github.com/IsraelAugusto0110)
+- [João Victor DevTeam](https://github.com/JVMedeiros)
+- [Euclides Rezende DevTeam](https://github.com/IsraelAugusto0110)
