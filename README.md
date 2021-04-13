@@ -7,7 +7,7 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 	🚧  Em construção...  🚧
 </h4>
 
-### Features:
+### Features
 
 - [ ] CRUD de usuário
 - [ ] CRUD de ata
@@ -23,3 +23,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Banco de dados oracle](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html)
 - [Javascript](https://www.javascript.com/)
 
+### Demonstração
+
+<h1 align="center">
+  <video width="320" height="240" controls>
+  <source src="https://github.com/IsraelAugusto0110/WebMeeting/blob/main/Documenta%C3%A7%C3%A3o/Tela_Login.mp4?raw=true" type="video/mp4">
+	Your browser does not support the video tag.
+  </video>
+</h1>
