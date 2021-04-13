@@ -28,3 +28,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1 align="center">
 	<a href="https://github.com/IsraelAugusto0110/WebMeeting/blob/main/Documenta%C3%A7%C3%A3o/Tela_Login.mp4?raw=true">Video de demonstração</a>
 </h1>
+
+### Nosso time
+[Israel Augusto DevTeam](https://github.com/IsraelAugusto0110)
+[Pedro Landin PO](https://github.com/Pedro-Landin)
+[Thiago Canonici DevTeam](https://github.com/thiagoCan)
+[Natalia Biscaro ScrumMaster](https://github.com/NataliaBiscaro)
+[Marcos Yan DevTeam](https://github.com/IsraelAugusto0110)
+[João Victor DevTeam](https://github.com/JVMedeiros)
+[Euclides Rezende DevTeam](https://github.com/IsraelAugusto0110)
