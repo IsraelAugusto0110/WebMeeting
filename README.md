@@ -17,7 +17,7 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 - [ ] Diagrama de implementação
 - [ ] Telas do projeto
 - [ ] Tela inicial com template indicando como será o frontend do sistema.
-- [ ] Funcionalidade de login/logout no sistema.
+- [x] Funcionalidade de login/logout no sistema.
 - [ ] Documentação de cada item da sprint
 
 
