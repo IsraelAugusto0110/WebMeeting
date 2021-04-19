@@ -9,14 +9,14 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 
 ### Features da sprint
 
-- [ ] Criar CRUD de usuário
-- [ ] Lista de requisitos
-- [ ] Diagrama de contexto
+- [x] Criar CRUD de usuário
+- [x] Lista de requisitos
+- [x] Diagrama de contexto
 - [x] Diagrama de casos de uso, com descrição
-- [ ] Diagrama de atividades
-- [ ] Diagrama de implementação
-- [ ] Protótipo das Telas do projeto
-- [ ] Tela inicial com template indicando como será o frontend do sistema.
+- [x] Diagrama de atividades
+- [x] Diagrama de implementação
+- [x] Protótipo das Telas do projeto
+- [x] Tela inicial com template indicando como será o frontend do sistema.
 - [x] Funcionalidade de login/logout no sistema.
 
 
