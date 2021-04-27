@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Demonstração
 
 <h1 align="center">
-	<img src="https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_02/Documenta%C3%A7%C3%A3o/Login_Logout.gif" width="500" height="500" />
+	<img src="https://github.com/IsraelAugusto0110/WebMeeting/blob/Entrega_01/Documenta%C3%A7%C3%A3o/Tela_Login.gif" width="500" height="500" />
 </h1>
 
 ### Nosso time
