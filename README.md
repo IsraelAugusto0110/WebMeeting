@@ -9,8 +9,8 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 
 ### Features da sprint
 
-- [x] Integração do Back com o Front
-- [x] CRUD do usuario front
+- [x] Front end da aplicação
+
 
 
 
