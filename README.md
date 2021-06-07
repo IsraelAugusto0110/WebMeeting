@@ -10,7 +10,8 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 ### Features da sprint
 
 - [X] Paginação via menu
-- [ ] BurnDown
+- [X] BurnDown
+- [X] CRUD do usuario 
 
 
 
