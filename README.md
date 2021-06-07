@@ -11,7 +11,7 @@ de CRUD de usuários, CRUD das atas, salvar as atas em pdf ou excel e imprimir a
 
 - [X] Paginação via menu
 - [X] BurnDown
-- [X] CRUD do usuario 
+
 
 
 
